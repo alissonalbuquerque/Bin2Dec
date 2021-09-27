@@ -11,4 +11,4 @@ Projeto básico / iniciante da lista de projetos do repositório app-ideas
 - [ ] Usuário visualiza os resultados em um campo de saida contendo o decimal (base 10) equivalente ao número binário digitado
 
 ### Funcionalidade Bônus
-- [x] Usuário pode inserir um numero variado de digitos binários
+- [ ] Usuário pode inserir um numero variado de digitos binários
