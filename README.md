@@ -12,3 +12,7 @@ Projeto básico / iniciante da lista de projetos do repositório app-ideas
 
 ### Funcionalidade Bônus
 - [ ] Usuário pode inserir um número variado de digitos binários
+
+### Screenshot
+
+![<img src="screenshot" width="50%">](screenshot.png)
